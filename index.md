@@ -17,6 +17,7 @@
 
 
 ### 2D Tree Generator
+A Java application which generates a randomized 2D tree outline. 
 
-
-### Sine Synthesizer
+### SineSynth
+A synthesizer that generates tones using sine waves.
