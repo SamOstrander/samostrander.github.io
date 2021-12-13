@@ -1,4 +1,5 @@
-## Samuel Ostrander
+# Samuel Ostrander
+
 ### Software Developer
 
 ## Projects
