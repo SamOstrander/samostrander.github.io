@@ -1,6 +1,7 @@
+# Samuel Ostrander<br><font size="4">Software Engineer
 
 ## Projects
-
+---
 ### Rag and Bone
 
 
