@@ -1,4 +1,4 @@
-# Samuel Ostrander<br><font size="4">Software Engineer
+<!--- Samuel Ostrander<br><font size="4">Software Engineer -->
 
 ## Projects
 
