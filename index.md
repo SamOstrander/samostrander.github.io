@@ -1,5 +1,3 @@
-## Samuel Ostrander
-
 ### Software Developer
 
 
