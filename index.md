@@ -2,17 +2,20 @@
 
 ## Projects
 
-### Rag and Bone
+### SineSynth (Python)
+A synthesizer that generates tones using sine waves. <br><img src="docs\assets\sinesynth-example.png" alt="example" width="300"/><br>[View code on GitHub](https://github.com/SamOstrander/sine-synthesizer)
+
+### 2D Tree Generator (Java)
+An application which generates randomized 2D leafless tree. <br><img src="docs\assets\treegen-example.png" alt="example" width="300"/><br>[View code on GitHub](https://github.com/SamOstrander/TreeOutlineGenerator)
 
 
-### Hat Game
+### Gremlin Guardian (GDScript)
+
+### Noodle Game (GML)
+
+### Hat Game (GML)
+
+### Rag and Bone (GML)
 
 
-### Noodle Game
 
-
-### 2D Tree Generator
-A Java application which generates a randomized 2D tree outline. 
-
-### SineSynth
-A synthesizer that generates tones using sine waves.
