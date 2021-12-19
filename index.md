@@ -12,4 +12,4 @@ An application which generates randomized 2D leafless tree. Made to familiarize 
 A game made for Weekly Game Jam 156, part arcade shooter, part 2D platformer. <br><img src="docs\assets\noodle-game-example2.png" alt="example" width="300"/><br>[Link to the game](https://otolith.itch.io/noodle)
 
 ### Hat Game (GML)
-Winner of Basic Block Jam. <br><img src="docs\assets\hat-game-example.gif" alt="example" width="300"/><br>[Link to the game](https://grenk.itch.io/hat-game)
+Winner of Basic Block Jam, this is a precision platformer made over 48 hours. <br><img src="docs\assets\hat-game-example.gif" alt="example" width="300"/><br>[Link to the game](https://grenk.itch.io/hat-game)
